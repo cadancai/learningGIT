@@ -25,7 +25,7 @@ This will generate 4 images. See below for details.
 
 ### Scatter Plot
 The first plot is a scatter plot with x axis as budget and y axis as rating of the movies. I used alpha in the geom_bar() function to control the level of transparency for each point on the graph, so that the density of the points on the graph can be sensed. I also set the scale on the x axis to be in 10 millions.
-![IMAGE](homework1/hw1-scatter.png)
+![IMAGE](learningGIT/homework1/hw1-scatter.png)
 
 
 ### Bar Chart
